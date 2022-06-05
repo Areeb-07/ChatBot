@@ -1,0 +1,40 @@
+
+{"intents": [
+    {"tag": "hello",
+     "patterns": ["Hi", "Hey", "Is anyone there?", "Hello", "Hay","Greetings","Hey there","Hi there","Hello there","Yo","Yo there","Howdy"],
+     "responses": ["Hello","Hello, how can I help you?", "Hi", "Hi there"]
+    },
+    {"tag": "goodbye",
+     "patterns": ["Bye", "See you later", "Goodbye","See you soon"],
+     "responses": ["See you later", "Have a nice day", "Bye! Come back again"]
+    },
+    {"tag": "howru",
+     "patterns": ["How are you?", "How do you do?", "How is it going?", "What's up?","Hi, how is it going?","Hi, how are you?","Hi, ho do you do?","Hi, what's up?","How have you been?"],
+     "responses": ["I am okay", "I am fine. Thank you", "Great! And you?", "I am good. How about you?"]
+    },
+    {"tag": "meet",
+     "patterns": ["Nice to meet you", "It's a pleasure to meet you", "Pleased to meet you","Hi, nice to meet you","Hi, it's a pleasure to meet you","Hi, pleased to meet you","Nice to see you","Good to see you" ],
+     "responses": ["Thank you. You too", "Nice to meet you too"]
+    },
+    {"tag": "day",
+    "patterns": ["Have a good day", "Good day", "Have a nice day","Wish you a nice day","Hope you have a good day","Hope you have a nice day"],
+    "responses": ["Have a nice day", "Have great day", "Thanks. You too"]
+    },
+    {"tag": "morning",
+    "patterns": ["Good morning", "Hope you have a good morning", "Hi, good morning"],
+    "responses": ["Good morning","Thanks. You too"]
+    },
+    {"tag": "afternoon",
+        "patterns": ["Good afternoon", "Hope you have a good afternoon", "Hi, good afternoon"],
+        "responses": ["Good afternoon","Thanks. You too"]
+    },
+    {"tag": "evening",
+        "patterns": ["Good evening", "Hope you have a good evening", "Hi, good evening"],
+        "responses": ["Good evening","Thanks. You too"]
+    },
+    {"tag": "night",
+        "patterns": ["Good night", "Hope you have a good night", "Hi, good night"],
+        "responses": ["Good night","Thanks. You too"]
+    }
+]
+}
