@@ -2,7 +2,7 @@
 
 This repository contains the files for technical test of NULL Innovation Private Limited
 
-The Colab Notebook Chatter.py contains the complete code for the assignment.
+The Colab Notebook Chatter.ipynb contains the complete code for the assignment.
 
 The file data.json contains the dataset used to train the model.
 
