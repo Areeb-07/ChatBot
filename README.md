@@ -1,8 +1,8 @@
-# AI-ML Python Technical Test
+# ChatBot
 
-This repository contains the files for technical test of NULL Innovation Private Limited
+This repository contains the files for a simple chatbot using deep learning teechniques with Tensorflow.
 
-The Colab Notebook Chatter.ipynb contains the complete code for the assignment.
+The Colab Notebook Chatter.ipynb contains the complete code for the project.
 
 The file data.json contains the dataset used to train the model.
 
