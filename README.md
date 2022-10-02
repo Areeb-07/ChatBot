@@ -1,6 +1,6 @@
 # ChatBot
 
-This repository contains the files for a simple chatbot using deep learning teechniques with Tensorflow.
+This repository contains the files for a simple chatbot using deep learning techniques with Tensorflow.
 
 The Colab Notebook Chatter.ipynb contains the complete code for the project.
 
